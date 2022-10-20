@@ -1,0 +1,5 @@
+To install the AWS CLI please follow the instructions on the [AWS page.](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) 
+
+Once install we can configure the AWS using the command `aws configure`  where we will have to add the secret key which can be found on  `Your Security Credentials` and then `Create New Access Key` in [this page](https://console.aws.amazon.com/iam/home#/security_credentials)
+
+When configuring your account for "default output format" we can use "JSON"
